@@ -11,6 +11,6 @@ def my_collect(array)
     end
     collection
   else
-    puts "Nothing"
+    puts "No data"
   end
 end
