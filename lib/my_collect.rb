@@ -10,6 +10,6 @@ def collect_stuff(array)
     end
     collection
   else
-    puts "No informatin to process."
+    0
   end
 end
