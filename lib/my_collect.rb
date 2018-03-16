@@ -11,6 +11,6 @@ def my_collect(array)
     end
     collection
   else
-    0
+    puts "Nothing"
   end
 end
